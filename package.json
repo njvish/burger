@@ -22,6 +22,7 @@
     "express-handlebars": "^3.0.0",
     "install": "^0.10.2",
     "method-override": "^2.3.10",
-    "mysql": "^2.15.0"
+    "mysql": "^2.15.0",
+    "view-engine-handlebars": "^1.0.3"
   }
 }
