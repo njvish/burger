@@ -6,7 +6,7 @@ var handlebars = require('handlebars');
 
 
 var app = express();
-var port = 3030;
+var port = process.env.PORT || 3030;
 
 
 
